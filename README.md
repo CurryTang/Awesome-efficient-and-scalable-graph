@@ -25,3 +25,10 @@
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
 | Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs                      | ICDE 2022      |                       |
+
+
+### Non-graph but interesting & important work
+| **Title**                                                                                 | **Conference** | **Keywords**          |
+|-------------------------------------------------------------------------------------------|----------------|-----------------------|
+| Shepherd: Serving DNNs in the Wild                                                        | NSDI 2023      |                       |
+| FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness               | NIPS 2022      |                       |
