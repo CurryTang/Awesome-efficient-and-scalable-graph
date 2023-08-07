@@ -7,7 +7,9 @@
 | DSpar: An Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification | TMLR 2023 | Data-driven, Graph Condensation|
 | Learning Large Graph Property Prediction via Graph Segment Training                       | Arxiv 2023     | Graph Transformer     |
 | LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation                           | ICML 2023      |                       |
+| Graph Ladling: Shockingly Simple Parallel GNN Training without Intermediate Communication | ICML 2023      | Distributed           |
 | GOAT: A Global Transformer on Large-scale Graphs                                          | ICML 2023      | Graph Transformer     |
+| Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks             | ICML 2023      | NAS                   |
 | MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization          | ICLR 2023      | GNN as MLP            |
 | GraphFM: Improving Large-Scale GNN Training via Feature Momentum                          | NIPS 2022      |                       |
 | Graph Condensation for Graph Neural Networks                                              | ICLR 2022      | Data-driven, Graph Condensation |
