@@ -1,7 +1,7 @@
 ## A Curated list of papers related to efficient graph machine learning
 
 
-### Model Level
+### Model Level (Most papers come from ICML,NIPS,ICLR)
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
 | DSpar: An Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification | TMLR 2023 | Data-driven, Graph Condensation|
@@ -22,10 +22,11 @@
 
 
 
-### ML/Sys-codesign level
+### ML/Sys-codesign level (Most papers come from SIGMOD, VLDB, OSDI, ICDE, ...)
 
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
+| Algorithm and System Co-design for Efficient Subgraph-based Graph Representation Learning | VLDB 2022      |                       |
 | Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs                      | ICDE 2022      |                       |
 
 
