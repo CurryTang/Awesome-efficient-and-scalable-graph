@@ -34,3 +34,8 @@
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
 | Shepherd: Serving DNNs in the Wild                                                        | NSDI 2023      |                       |
 | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness               | NIPS 2022      |                       |
+
+
+### Other Awesome Resources
+
+* [awesome-gnn-systems](https://github.com/chwan1016/awesome-gnn-systems)
