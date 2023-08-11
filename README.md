@@ -4,6 +4,7 @@
 ### Model Level (Most papers come from ICML,NIPS,ICLR)
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
+| Communication-Free Distributed GNN Training with Vertex Cut                               | Arxiv 2023     | Distributed           |
 | DSpar: An Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification | TMLR 2023 | Data-driven, Graph Condensation|
 | Learning Large Graph Property Prediction via Graph Segment Training                       | Arxiv 2023     | Graph Transformer     |
 | LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation                           | ICML 2023      |                       |
