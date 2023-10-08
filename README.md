@@ -4,6 +4,7 @@
 ### Model Level (Most papers come from ICML,NIPS,ICLR)
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
+| Efficient Learning of Linear Graph Neural Networks via Node Subsampling                   | NIPS 2023      | Sampling              |
 | Communication-Free Distributed GNN Training with Vertex Cut                               | Arxiv 2023     | Distributed           |
 | DSpar: An Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification | TMLR 2023 | Data-driven, Graph Condensation|
 | Learning Large Graph Property Prediction via Graph Segment Training                       | Arxiv 2023     | Graph Transformer     |
@@ -27,6 +28,11 @@
 
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
+| Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective| MLSYS 2022   | Kernel                |
+| Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs | MLSYS 2022 | Distributed, full-batch | 
+| Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining | MLSYS 2022 |                      | 
+| Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph          | MLSYS 2022     |                       | 
+| BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Partition-Parallelism and Random Boundary Node Sampling | MLSYS 2022 | |
 | Algorithm and System Co-design for Efficient Subgraph-based Graph Representation Learning | VLDB 2022      |                       |
 | Accurate and Scalable Graph Neural Networks for Billion-Scale Graphs                      | ICDE 2022      |                       |
 
