@@ -28,6 +28,8 @@
 
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
+| DSP: Efficient GNN Training with Multiple GPUs                                            | PPoPP 2023     |                       |
+| PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs                                | PPoPP 2023     |                       |
 | Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective| MLSYS 2022   | Kernel                |
 | Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs | MLSYS 2022 | Distributed, full-batch | 
 | Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining | MLSYS 2022 |                      | 
