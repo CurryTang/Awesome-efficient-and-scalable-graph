@@ -12,10 +12,16 @@
 | Graph Ladling: Shockingly Simple Parallel GNN Training without Intermediate Communication | ICML 2023      | Distributed           |
 | GOAT: A Global Transformer on Large-scale Graphs                                          | ICML 2023      | Graph Transformer     |
 | Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks             | ICML 2023      | NAS                   |
+| RSC: Accelerate Graph Neural Networks Training via Randomized Sparse Computations         | ICML 2022      | | 
 | MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization          | ICLR 2023      | GNN as MLP            |
+| Influence-Based Mini-Batching for Graph Neural Networks       | LOG 2022 | | 
 | GraphFM: Improving Large-Scale GNN Training via Feature Momentum                          | NIPS 2022      |                       |
+| A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking | NIPS 2022 | |
+| ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective | NIPS 2022 | |
 | Graph Condensation for Graph Neural Networks                                              | ICLR 2022      | Data-driven, Graph Condensation |
 |Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation                  | ICLR 2022      | GNN as MLP            |
+| EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression         | ICLR 2022      |                       | 
+| SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs | KDD 2022 | | 
 | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings      | ICML 2021      | Large Graph, Sampling |
 | VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization | NIPS 2021      | Quantization          |
 | Sketch-GNN: Scalable Graph Neural Networks with Sublinear Training Complexity             | NIPS 2021      |                       |
@@ -28,8 +34,10 @@
 
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
+| ReFresh: Reducing Memory Access from Exploiting Stable Historical Embeddings for Graph Neural Network Training | Arxiv 2023 | |
 | DSP: Efficient GNN Training with Multiple GPUs                                            | PPoPP 2023     |                       |
 | PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs                                | PPoPP 2023     |                       |
+| Sancus: staleness-aware communication-avoiding full-graph decentralized training in large-scale graph neural networks | VLDB 2023  | |
 | Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective| MLSYS 2022   | Kernel                |
 | Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs | MLSYS 2022 | Distributed, full-batch | 
 | Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining | MLSYS 2022 |                      | 
