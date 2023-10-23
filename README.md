@@ -18,8 +18,9 @@
 | MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization          | ICLR 2023      | GNN as MLP            |
 | Influence-Based Mini-Batching for Graph Neural Networks       | LOG 2022 | | 
 | GraphFM: Improving Large-Scale GNN Training via Feature Momentum                          | NIPS 2022      |                       |
-| A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking | NIPS 2022 | |
-| ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective | NIPS 2022 | |
+| A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking          | NIPS 2022      |                       |
+| ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective   | NIPS 2022      |                       |
+| Sketch-GNN: Scalable Graph Neural Networks with Sublinear Training Complexity             | NIPS 2022      |                       |
 | Graph Condensation for Graph Neural Networks                                              | ICLR 2022      | Data-driven, Graph Condensation |
 |Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation                  | ICLR 2022      | GNN as MLP            |
 | EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression         | ICLR 2022      |                       | 
@@ -28,7 +29,7 @@
 | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings      | ICML 2021      | Large Graph, Sampling |
 | A Unified Lottery Ticket Hypothesis for Graph Neural Networks                             | ICML 2021      |                       |
 | VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization | NIPS 2021      | Quantization          |
-| Sketch-GNN: Scalable Graph Neural Networks with Sublinear Training Complexity             | NIPS 2021      |                       |
+
 
 
 
