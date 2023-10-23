@@ -1,18 +1,20 @@
 ## A Curated list of papers related to efficient graph machine learning
 
 
-### Model Level (Most papers come from ICML,NIPS,ICLR)
+### Model Level (Most papers come from ICML, NIPS, ICLR)
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
 | Efficient Learning of Linear Graph Neural Networks via Node Subsampling                   | NIPS 2023      | Sampling              |
 | Communication-Free Distributed GNN Training with Vertex Cut                               | Arxiv 2023     | Distributed           |
-| DSpar: An Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification | TMLR 2023 | Data-driven, Graph Condensation|
+| DSpar: An Embarrassingly Simple Strategy for Efficient GNN Training and Inference via Degree-based Sparsification | TMLR 2023 | Data-driven, Graph Condensation|
 | Learning Large Graph Property Prediction via Graph Segment Training                       | Arxiv 2023     | Graph Transformer     |
 | LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation                           | ICML 2023      |                       |
 | Graph Ladling: Shockingly Simple Parallel GNN Training without Intermediate Communication | ICML 2023      | Distributed           |
 | GOAT: A Global Transformer on Large-scale Graphs                                          | ICML 2023      | Graph Transformer     |
 | Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks             | ICML 2023      | NAS                   |
-| RSC: Accelerate Graph Neural Networks Training via Randomized Sparse Computations         | ICML 2022      | | 
+| Fast Online Node Labeling for Very Large Graphs                                           | ICML 2023      |                       |
+| Graph Neural Tangent Kernel: Convergence on Large Graphs                                  | ICML 2023      |                       |
+| RSC: Accelerate Graph Neural Networks Training via Randomized Sparse Computations         | ICML 2022      |                       | 
 | MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization          | ICLR 2023      | GNN as MLP            |
 | Influence-Based Mini-Batching for Graph Neural Networks       | LOG 2022 | | 
 | GraphFM: Improving Large-Scale GNN Training via Feature Momentum                          | NIPS 2022      |                       |
@@ -34,6 +36,7 @@
 
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
+|FLASH: A Framework for Programming Distributed Graph Processing Algorithms                 | ICDE 2023      |                       |   
 | ReFresh: Reducing Memory Access from Exploiting Stable Historical Embeddings for Graph Neural Network Training | Arxiv 2023 | |
 | DSP: Efficient GNN Training with Multiple GPUs                                            | PPoPP 2023     |                       |
 | PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs                                | PPoPP 2023     |                       |
