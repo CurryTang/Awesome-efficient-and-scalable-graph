@@ -1,7 +1,7 @@
 ## A Curated list of papers related to efficient graph machine learning
 
 
-### Model Level (Most papers come from ICML, NIPS, ICLR)
+### Model Level (Most papers come from ICML, NIPS and ICLR)
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
 | Efficient Learning of Linear Graph Neural Networks via Node Subsampling                   | NIPS 2023      | Sampling              |
@@ -24,7 +24,9 @@
 |Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation                  | ICLR 2022      | GNN as MLP            |
 | EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression         | ICLR 2022      |                       | 
 | SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs | KDD 2022 | | 
+| Graph Condensation via Receptive Field Distribution Matching                              | Arxiv 2022     |                        |
 | GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings      | ICML 2021      | Large Graph, Sampling |
+| A Unified Lottery Ticket Hypothesis for Graph Neural Networks                             | ICML 2021      |                       |
 | VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization | NIPS 2021      | Quantization          |
 | Sketch-GNN: Scalable Graph Neural Networks with Sublinear Training Complexity             | NIPS 2021      |                       |
 
