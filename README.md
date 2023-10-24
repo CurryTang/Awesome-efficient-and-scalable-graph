@@ -15,9 +15,9 @@
 | Fast Online Node Labeling for Very Large Graphs                                           | ICML 2023      |                       |
 | Graph Neural Tangent Kernel: Convergence on Large Graphs                                  | ICML 2023      |                       |
 | RSC: Accelerate Graph Neural Networks Training via Randomized Sparse Computations         | ICML 2022      |                       | 
-| LMC: FAST TRAINING OF GNNS VIA SUBGRAPH-WISE SAMPLING WITH PROVABLE CONVERGENCE           | ICLR 2023(spotlight)      |            |
+| LMC: FAST TRAINING OF GNNS VIA SUBGRAPH-WISE SAMPLING WITH PROVABLE CONVERGENCE           | ICLR 2023      |                       |
 | MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization          | ICLR 2023      | GNN as MLP            |
-| Influence-Based Mini-Batching for Graph Neural Networks       | LOG 2022 | | 
+| Influence-Based Mini-Batching for Graph Neural Networks                                   | LOG 2022       |                       | 
 | GraphFM: Improving Large-Scale GNN Training via Feature Momentum                          | NIPS 2022      |                       |
 | A Comprehensive Study on Large-Scale Graph Training: Benchmarking and Rethinking          | NIPS 2022      |                       |
 | ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective   | NIPS 2022      |                       |
@@ -25,9 +25,9 @@
 | Graph Condensation for Graph Neural Networks                                              | ICLR 2022      | Data-driven, Graph Condensation |
 |Graph-less Neural Networks: Teaching Old MLPs New Tricks via Distillation                  | ICLR 2022      | GNN as MLP            |
 | EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression         | ICLR 2022      |                       | 
-| SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs | KDD 2022 | | 
+| SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs     | KDD 2022 | | 
 | Graph Condensation via Receptive Field Distribution Matching                              | Arxiv 2022     |                        |
-| GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings      | ICML 2021      | Large Graph, Sampling |
+| GNNAutoScale: Scalable and Expressive Graph Neural Networks via Historical Embeddings      | ICML 2021     | Large Graph, Sampling |
 | A Unified Lottery Ticket Hypothesis for Graph Neural Networks                             | ICML 2021      |                       |
 | VQ-GNN: A Universal Framework to Scale up Graph Neural Networks using Vector Quantization | NIPS 2021      | Quantization          |
 
