@@ -15,6 +15,7 @@
 | Fast Online Node Labeling for Very Large Graphs                                           | ICML 2023      |                       |
 | Graph Neural Tangent Kernel: Convergence on Large Graphs                                  | ICML 2023      |                       |
 | RSC: Accelerate Graph Neural Networks Training via Randomized Sparse Computations         | ICML 2022      |                       | 
+| LMC: FAST TRAINING OF GNNS VIA SUBGRAPH-WISE SAMPLING WITH PROVABLE CONVERGENCE           | ICLR 2023(spotlight)      |            |
 | MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization          | ICLR 2023      | GNN as MLP            |
 | Influence-Based Mini-Batching for Graph Neural Networks       | LOG 2022 | | 
 | GraphFM: Improving Large-Scale GNN Training via Feature Momentum                          | NIPS 2022      |                       |
