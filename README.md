@@ -4,6 +4,7 @@
 ### Model Level (Most papers come from ICML, NIPS and ICLR)
 | **Title**                                                                                 | **Conference** | **Keywords**          |
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|
+| Layer-Neighbor Sampling — Defusing Neighborhood Explosion in GNNs                         | NIPS 2023      | Sampling              |
 | Efficient Learning of Linear Graph Neural Networks via Node Subsampling                   | NIPS 2023      | Sampling              |
 | Communication-Free Distributed GNN Training with Vertex Cut                               | Arxiv 2023     | Distributed           |
 | DSpar: An Embarrassingly Simple Strategy for Efficient GNN Training and Inference via Degree-based Sparsification | TMLR 2023 | Data-driven, Graph Condensation|
