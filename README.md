@@ -41,6 +41,10 @@
 
 | **Title**                                                                                 | **Conference** | **Keywords**          |**Paper**|**Code**|
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|---------|--------|
+| Adaptive Message Quantization and Parallelization for Distributed Full-graph GNN Training | MLSYS 2023     | | | |
+| Communication-Efficient Graph Neural Networks with Probabilistic Neighborhood Expansion Analysis and Caching | MLSYS 2023 | | |
+| GiPH: Generalizable Placement Learning for Adaptive Heterogeneous Computing               | MLSYS 2023     |  | | |
+| Learning to Parallelize with OpenMP by Augmented Heterogeneous AST Representation         | MLSYS 2023     |  | | |
 |FLASH: A Framework for Programming Distributed Graph Processing Algorithms                 | ICDE 2023      |                       |   
 | ReFresh: Reducing Memory Access from Exploiting Stable Historical Embeddings for Graph Neural Network Training | Arxiv 2023 | | | |
 | DSP: Efficient GNN Training with Multiple GPUs                                            | PPoPP 2023     |                       | | |
@@ -58,6 +62,7 @@
 ### Non-graph but interesting & important work
 | **Title**                                                                                 | **Conference** | **Keywords**          |**Paper**|**Code**|
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|---------|--------|
+| Efficiently Scaling Transformer Inference                                                 | MLSYS 2023     |                       | | |
 | Shepherd: Serving DNNs in the Wild                                                        | NSDI 2023      |                       | | |
 | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness               | NIPS 2022      |                       | | |
 
