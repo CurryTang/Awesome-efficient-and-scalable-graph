@@ -41,6 +41,7 @@
 
 | **Title**                                                                                 | **Conference** | **Keywords**          |**Paper**|**Code**|
 |-------------------------------------------------------------------------------------------|----------------|-----------------------|---------|--------|
+| BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing            | NSDI 2023      | | | |
 | Adaptive Message Quantization and Parallelization for Distributed Full-graph GNN Training | MLSYS 2023     | | | |
 | Communication-Efficient Graph Neural Networks with Probabilistic Neighborhood Expansion Analysis and Caching | MLSYS 2023 | | |
 | GiPH: Generalizable Placement Learning for Adaptive Heterogeneous Computing               | MLSYS 2023     |  | | |
